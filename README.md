@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Chad Gorshing [cgorshing][website] 👋
 
-[![Website](https://img.shields.io/website?label=cgorshing.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gorshing.net)
+[![Website](https://img.shields.io/website?label=gorshing.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gorshing.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cgorshing?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcgorshing&screen_name=cgorshing)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## Trying to be a Technology Leader and Creator!
 
 - 🔭 I'm currently looking for work - hit me up!
 - 🌱 I'm currently learning Elixir 🤣
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="cgorshing | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="chad-gorshing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cgorshing | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gorshing.net" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />][aboutdotme]
 
 <br />
 
@@ -103,3 +104,4 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCRdDv2wUvAgqrZ4TB3MIXFQ
 [instagram]: https://instagram.com/cgorshing
 [linkedin]: https://linkedin.com/in/chad-gorshing
+[aboutdotme]: https://about.me/cgorshing
