@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="gorshing.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cgorshing | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="cgorshing | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="chad-gorshing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="chadgorshing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cgorshing | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="gorshing.net" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />][aboutdotme]
 
@@ -103,5 +103,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/cgorshing
 [youtube]: https://www.youtube.com/channel/UCRdDv2wUvAgqrZ4TB3MIXFQ
 [instagram]: https://instagram.com/cgorshing
-[linkedin]: https://linkedin.com/in/chad-gorshing
+[linkedin]: https://linkedin.com/in/chadgorshing
 [aboutdotme]: https://about.me/cgorshing
