@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with understanding Rubix cubes
 - 📫 How to reach me: Email, Twitter, or LinkedIn
 - 🥅 2020 Goals: I've got some reading to do
-- ⚡ Fun fact: Normal things, nothing special - Fishing, BBQ, and Woodworking
+- ⚡ Fun fact: My wife tells me I randomly whistle ... often
 
 ### Connect with me:
 
