@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Somebody Else](https://gorshing.net/dailies/2020/08/somebody-else)
 - [Speaks to You](https://gorshing.net/dailies/2017/11/speaks-to-you)
 - [What Is Possible](https://gorshing.net/dailies/2017/06/what-is-possible)
 - [You Might Be Lost](https://gorshing.net/dailies/2017/06/you-might-be-lost)
 - [Tools do not matter](https://gorshing.net/dailies/2017/05/tools-do-not-matter)
-- [Are You Comfortable?](https://gorshing.net/dailies/2017/01/are-you-comfortable)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://gorshing.net)
