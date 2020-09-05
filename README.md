@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding Your Next Step](https://gorshing.net/dailies/2020/09/finding-your-next-step)
 - [Create Your Life](https://gorshing.net/dailies/2020/09/create-your-life)
 - [Connecting the Dots](https://gorshing.net/dailies/2020/08/connecting-the-dots)
 - [Live Your Strength](https://gorshing.net/dailies/2020/08/live-in-your-strengths)
 - [Active Recharge](https://gorshing.net/dailies/2020/08/active-recharge)
-- [Waiting on a Direction](https://gorshing.net/dailies/2020/08/waiting-on-direction)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://gorshing.net)
