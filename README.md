@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com//mule-lint/mule-lint/issues/34) in [mule-lint/mule-lint](https://github.com//mule-lint/mule-lint)
-2. 🗣 Commented on [#36](https://github.com//mule-lint/mule-lint/issues/36) in [mule-lint/mule-lint](https://github.com//mule-lint/mule-lint)
-3. ❗️ Closed issue [#33](https://github.com//mule-lint/mule-lint/issues/33) in [mule-lint/mule-lint](https://github.com//mule-lint/mule-lint)
-4. 🗣 Commented on [#33](https://github.com//mule-lint/mule-lint/issues/33) in [mule-lint/mule-lint](https://github.com//mule-lint/mule-lint)
-5. 🗣 Commented on [#35](https://github.com//mule-lint/mule-lint/issues/35) in [mule-lint/mule-lint](https://github.com//mule-lint/mule-lint)
+1. ❗️ Closed issue [#5](https://github.com//mule-lint/mule-lint-maven-plugin/issues/5) in [mule-lint/mule-lint-maven-plugin](https://github.com//mule-lint/mule-lint-maven-plugin)
+2. 🗣 Commented on [#5](https://github.com//mule-lint/mule-lint-maven-plugin/issues/5) in [mule-lint/mule-lint-maven-plugin](https://github.com//mule-lint/mule-lint-maven-plugin)
+3. 🗣 Commented on [#5](https://github.com//mule-lint/mule-lint-maven-plugin/issues/5) in [mule-lint/mule-lint-maven-plugin](https://github.com//mule-lint/mule-lint-maven-plugin)
+4. 🗣 Commented on [#5](https://github.com//mule-lint/mule-lint-maven-plugin/issues/5) in [mule-lint/mule-lint-maven-plugin](https://github.com//mule-lint/mule-lint-maven-plugin)
+5. 🗣 Commented on [#34](https://github.com//mule-lint/mule-lint/issues/34) in [mule-lint/mule-lint](https://github.com//mule-lint/mule-lint)
 <!--END_SECTION:activity-->
 
 </details>
