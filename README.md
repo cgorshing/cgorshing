@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/mule-lint/mule-lint/issues/35) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-2. ❗️ Closed issue [#39](https://github.com/mule-lint/mule-lint/issues/39) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-3. 🗣 Commented on [#39](https://github.com/mule-lint/mule-lint/issues/39) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-4. ❗️ Closed issue [#35](https://github.com/mule-lint/mule-lint/issues/35) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-5. 🗣 Commented on [#35](https://github.com/mule-lint/mule-lint/issues/35) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+1. 🎉 Merged PR [#1](https://github.com/cgorshing/7zip-research/pull/1) in [cgorshing/7zip-research](https://github.com/cgorshing/7zip-research)
+2. 🎉 Merged PR [#1](https://github.com/cgorshing/groovy-simple/pull/1) in [cgorshing/groovy-simple](https://github.com/cgorshing/groovy-simple)
+3. 🎉 Merged PR [#1](https://github.com/cgorshing/hazelcast-demo/pull/1) in [cgorshing/hazelcast-demo](https://github.com/cgorshing/hazelcast-demo)
+4. 🎉 Merged PR [#1](https://github.com/cgorshing/mule-secure-property-placeholder/pull/1) in [cgorshing/mule-secure-property-placeholder](https://github.com/cgorshing/mule-secure-property-placeholder)
+5. 🎉 Merged PR [#1](https://github.com/cgorshing/jenkins-finder/pull/1) in [cgorshing/jenkins-finder](https://github.com/cgorshing/jenkins-finder)
 <!--END_SECTION:activity-->
 
 </details>
