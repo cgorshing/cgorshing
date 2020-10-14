@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cgorshing/7zip-research/pull/1) in [cgorshing/7zip-research](https://github.com/cgorshing/7zip-research)
-2. 🎉 Merged PR [#1](https://github.com/cgorshing/groovy-simple/pull/1) in [cgorshing/groovy-simple](https://github.com/cgorshing/groovy-simple)
-3. 🎉 Merged PR [#1](https://github.com/cgorshing/hazelcast-demo/pull/1) in [cgorshing/hazelcast-demo](https://github.com/cgorshing/hazelcast-demo)
-4. 🎉 Merged PR [#1](https://github.com/cgorshing/mule-secure-property-placeholder/pull/1) in [cgorshing/mule-secure-property-placeholder](https://github.com/cgorshing/mule-secure-property-placeholder)
-5. 🎉 Merged PR [#1](https://github.com/cgorshing/jenkins-finder/pull/1) in [cgorshing/jenkins-finder](https://github.com/cgorshing/jenkins-finder)
+1. 💪 Opened PR [#566](https://github.com/kevin1024/vcrpy/pull/566) in [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy)
+2. 🎉 Merged PR [#1](https://github.com/cgorshing/7zip-research/pull/1) in [cgorshing/7zip-research](https://github.com/cgorshing/7zip-research)
+3. 🎉 Merged PR [#1](https://github.com/cgorshing/groovy-simple/pull/1) in [cgorshing/groovy-simple](https://github.com/cgorshing/groovy-simple)
+4. 🎉 Merged PR [#1](https://github.com/cgorshing/hazelcast-demo/pull/1) in [cgorshing/hazelcast-demo](https://github.com/cgorshing/hazelcast-demo)
+5. 🎉 Merged PR [#1](https://github.com/cgorshing/mule-secure-property-placeholder/pull/1) in [cgorshing/mule-secure-property-placeholder](https://github.com/cgorshing/mule-secure-property-placeholder)
 <!--END_SECTION:activity-->
 
 </details>
