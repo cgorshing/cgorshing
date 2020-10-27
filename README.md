@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#566](https://github.com/kevin1024/vcrpy/pull/566) in [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy)
-2. 🎉 Merged PR [#1](https://github.com/cgorshing/7zip-research/pull/1) in [cgorshing/7zip-research](https://github.com/cgorshing/7zip-research)
-3. 🎉 Merged PR [#1](https://github.com/cgorshing/groovy-simple/pull/1) in [cgorshing/groovy-simple](https://github.com/cgorshing/groovy-simple)
-4. 🎉 Merged PR [#1](https://github.com/cgorshing/hazelcast-demo/pull/1) in [cgorshing/hazelcast-demo](https://github.com/cgorshing/hazelcast-demo)
-5. 🎉 Merged PR [#1](https://github.com/cgorshing/mule-secure-property-placeholder/pull/1) in [cgorshing/mule-secure-property-placeholder](https://github.com/cgorshing/mule-secure-property-placeholder)
+1. 🗣 Commented on [#37](https://github.com/mule-lint/mule-lint/issues/37) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+2. 🗣 Commented on [#40](https://github.com/mule-lint/mule-lint/issues/40) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+3. 🗣 Commented on [#41](https://github.com/mule-lint/mule-lint/issues/41) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+4. 🗣 Commented on [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+5. 💪 Opened PR [#566](https://github.com/kevin1024/vcrpy/pull/566) in [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy)
 <!--END_SECTION:activity-->
 
 </details>
