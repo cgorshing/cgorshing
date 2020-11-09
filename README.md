@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/mule-lint/mule-lint/issues/37) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-2. 🗣 Commented on [#40](https://github.com/mule-lint/mule-lint/issues/40) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-3. 🗣 Commented on [#41](https://github.com/mule-lint/mule-lint/issues/41) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-4. 🗣 Commented on [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-5. 💪 Opened PR [#566](https://github.com/kevin1024/vcrpy/pull/566) in [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy)
+1. 🗣 Commented on [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+2. 🗣 Commented on [#37](https://github.com/mule-lint/mule-lint/issues/37) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+3. 🗣 Commented on [#40](https://github.com/mule-lint/mule-lint/issues/40) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+4. 🗣 Commented on [#41](https://github.com/mule-lint/mule-lint/issues/41) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+5. 🗣 Commented on [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
 <!--END_SECTION:activity-->
 
 </details>
