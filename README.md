@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/mule-lint/mule-lint/issues/32) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-2. ❗️ Closed issue [#37](https://github.com/mule-lint/mule-lint/issues/37) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-3. 🗣 Commented on [#37](https://github.com/mule-lint/mule-lint/issues/37) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-4. 🗣 Commented on [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-5. ❗️ Closed issue [#40](https://github.com/mule-lint/mule-lint/issues/40) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+1. 🗣 Commented on [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+2. ❗️ Closed issue [#32](https://github.com/mule-lint/mule-lint/issues/32) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+3. ❗️ Closed issue [#37](https://github.com/mule-lint/mule-lint/issues/37) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+4. 🗣 Commented on [#37](https://github.com/mule-lint/mule-lint/issues/37) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+5. 🗣 Commented on [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
 <!--END_SECTION:activity-->
 
 </details>
