@@ -83,8 +83,8 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/AZMCode/asdf-jq/issues/3) in [AZMCode/asdf-jq](https://github.com/AZMCode/asdf-jq)
-2. ❗️ Closed issue [#6](https://github.com/mule-lint/mule-lint-maven-plugin/issues/6) in [mule-lint/mule-lint-maven-plugin](https://github.com/mule-lint/mule-lint-maven-plugin)
+1. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 💪 Opened PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
 3. 🗣 Commented on [#6](https://github.com/mule-lint/mule-lint-maven-plugin/issues/6) in [mule-lint/mule-lint-maven-plugin](https://github.com/mule-lint/mule-lint-maven-plugin)
 4. ❗️ Opened issue [#3](https://github.com/AZMCode/asdf-jq/issues/3) in [AZMCode/asdf-jq](https://github.com/AZMCode/asdf-jq)
 5. 🗣 Commented on [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
