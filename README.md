@@ -83,10 +83,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mule-lint/mule-lint.github.io/pull/2) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
-2. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 💪 Opened PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
-4. ❗️ Opened issue [#3](https://github.com/AZMCode/asdf-jq/issues/3) in [AZMCode/asdf-jq](https://github.com/AZMCode/asdf-jq)
+1. 🎉 Merged PR [#3](https://github.com/mule-lint/mule-lint.github.io/pull/3) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
+2. 🎉 Merged PR [#2](https://github.com/mule-lint/mule-lint.github.io/pull/2) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
+3. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 💪 Opened PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
 5. 🗣 Commented on [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
 <!--END_SECTION:activity-->
 
