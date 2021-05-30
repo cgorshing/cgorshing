@@ -82,13 +82,18 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, May 30th, 2021, 3:17:39 AM (GMT)
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<!--RECENT_ACTIVITY:start-->
 1. 🎉 Merged PR [#4](https://github.com/mule-lint/mule-lint.github.io/pull/4) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
 2. 🎉 Merged PR [#3](https://github.com/mule-lint/mule-lint.github.io/pull/3) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
 3. 🎉 Merged PR [#2](https://github.com/mule-lint/mule-lint.github.io/pull/2) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
 4. 🗣 Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 5. 💪 Opened PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
+
 
 </details>
 
