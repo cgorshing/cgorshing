@@ -83,15 +83,15 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 3rd, 2021, 4:17:38 PM
+Last Updated: Thursday, June 3rd, 2021, 8:31:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/mule-lint/mule-lint.github.io/pull/4) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
-2. 🎉 Merged PR [#3](https://github.com/mule-lint/mule-lint.github.io/pull/3) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
-3. 🎉 Merged PR [#2](https://github.com/mule-lint/mule-lint.github.io/pull/2) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
-4. 💪 Opened PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
-5. 🔱 Forked [cgorshing/github-activity-readme](https://github.com/cgorshing/github-activity-readme) from [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
+1. 🔱 Forked [cgorshing/puppetlabs-rsync](https://github.com/cgorshing/puppetlabs-rsync) from [puppetlabs/puppetlabs-rsync](https://github.com/puppetlabs/puppetlabs-rsync)
+2. 🎉 Merged PR [#4](https://github.com/mule-lint/mule-lint.github.io/pull/4) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
+3. 🎉 Merged PR [#3](https://github.com/mule-lint/mule-lint.github.io/pull/3) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
+4. 🎉 Merged PR [#2](https://github.com/mule-lint/mule-lint.github.io/pull/2) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
+5. 💪 Opened PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
 <!--RECENT_ACTIVITY:end-->
 
 
