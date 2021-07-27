@@ -83,15 +83,15 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 27th, 2021, 12:03:10 PM
+Last Updated: Tuesday, July 27th, 2021, 4:03:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#44](https://github.com/mule-lint/mule-lint/issues/44) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-2. 🎉 Merged PR [#5](https://github.com/mule-lint/mule-lint.github.io/pull/5) in [mule-lint/mule-lint.github.io](https://github.com/mule-lint/mule-lint.github.io)
-3. 📔 Created new repository [cgorshing/foo](https://github.com/cgorshing/foo)
-4. 💪 Opened PR [#140](https://github.com/puppetlabs/puppetlabs-rsync/pull/140) in [puppetlabs/puppetlabs-rsync](https://github.com/puppetlabs/puppetlabs-rsync)
-5. 🔱 Forked [cgorshing/puppetlabs-rsync](https://github.com/cgorshing/puppetlabs-rsync) from [puppetlabs/puppetlabs-rsync](https://github.com/puppetlabs/puppetlabs-rsync)
+1. ❌ Closed PR [#8](https://github.com/brettswift/BuildBlink/pull/8) in [brettswift/BuildBlink](https://github.com/brettswift/BuildBlink)
+2. ❌ Closed PR [#7](https://github.com/brettswift/BuildBlink/pull/7) in [brettswift/BuildBlink](https://github.com/brettswift/BuildBlink)
+3. ❌ Closed PR [#4](https://github.com/Confluex/confluex-mock-salesforce-api/pull/4) in [Confluex/confluex-mock-salesforce-api](https://github.com/Confluex/confluex-mock-salesforce-api)
+4. ❌ Closed PR [#1](https://github.com/jaskiratbhatia/MulejmsRetryandRedilevery/pull/1) in [jaskiratbhatia/MulejmsRetryandRedilevery](https://github.com/jaskiratbhatia/MulejmsRetryandRedilevery)
+5. ❌ Closed PR [#8](https://github.com/fajarmf/ueberauth_linkedin/pull/8) in [fajarmf/ueberauth_linkedin](https://github.com/fajarmf/ueberauth_linkedin)
 <!--RECENT_ACTIVITY:end-->
 
 
