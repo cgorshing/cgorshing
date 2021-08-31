@@ -83,15 +83,15 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 29th, 2021, 4:01:21 AM
+Last Updated: Tuesday, August 31st, 2021, 4:01:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#8](https://github.com/brettswift/BuildBlink/pull/8) in [brettswift/BuildBlink](https://github.com/brettswift/BuildBlink)
-2. ❌ Closed PR [#7](https://github.com/brettswift/BuildBlink/pull/7) in [brettswift/BuildBlink](https://github.com/brettswift/BuildBlink)
-3. ❌ Closed PR [#4](https://github.com/Confluex/confluex-mock-salesforce-api/pull/4) in [Confluex/confluex-mock-salesforce-api](https://github.com/Confluex/confluex-mock-salesforce-api)
-4. ❌ Closed PR [#1](https://github.com/jaskiratbhatia/MulejmsRetryandRedilevery/pull/1) in [jaskiratbhatia/MulejmsRetryandRedilevery](https://github.com/jaskiratbhatia/MulejmsRetryandRedilevery)
-5. ❌ Closed PR [#8](https://github.com/fajarmf/ueberauth_linkedin/pull/8) in [fajarmf/ueberauth_linkedin](https://github.com/fajarmf/ueberauth_linkedin)
+1. 👍 Approved [#30](https://github.com/future-haus/django-inbox/pull/30#pullrequestreview-742152203) in [future-haus/django-inbox](https://github.com/future-haus/django-inbox)
+2. ❌ Closed PR [#8](https://github.com/brettswift/BuildBlink/pull/8) in [brettswift/BuildBlink](https://github.com/brettswift/BuildBlink)
+3. ❌ Closed PR [#7](https://github.com/brettswift/BuildBlink/pull/7) in [brettswift/BuildBlink](https://github.com/brettswift/BuildBlink)
+4. ❌ Closed PR [#4](https://github.com/Confluex/confluex-mock-salesforce-api/pull/4) in [Confluex/confluex-mock-salesforce-api](https://github.com/Confluex/confluex-mock-salesforce-api)
+5. ❌ Closed PR [#1](https://github.com/jaskiratbhatia/MulejmsRetryandRedilevery/pull/1) in [jaskiratbhatia/MulejmsRetryandRedilevery](https://github.com/jaskiratbhatia/MulejmsRetryandRedilevery)
 <!--RECENT_ACTIVITY:end-->
 
 
