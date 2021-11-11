@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Using Dates with MuleSoft's DataWeave](https://www.youtube.com/watch?v=tNCqzFEq9IY)
-- [Handling Null Values with MuleSoft's DataWeave](https://www.youtube.com/watch?v=REEHw1uu0-M)
-- [String Functions using MuleSoft's DataWeave](https://www.youtube.com/watch?v=xHrvCFJ5oew)
+- [Using Dates with MuleSoft&#39;s DataWeave](https://www.youtube.com/watch?v=tNCqzFEq9IY)
+- [Handling Null Values with MuleSoft&#39;s DataWeave](https://www.youtube.com/watch?v=REEHw1uu0-M)
+- [String Functions using MuleSoft&#39;s DataWeave](https://www.youtube.com/watch?v=xHrvCFJ5oew)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCRdDv2wUvAgqrZ4TB3MIXFQ)
