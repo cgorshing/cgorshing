@@ -83,15 +83,15 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 17th, 2022, 4:01:17 AM
+Last Updated: Wednesday, January 19th, 2022, 4:01:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3149](https://github.com/PowerShell/PSReadLine/pull/3149) in [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine)
-2. 🔱 Forked [cgorshing/PSReadLine](https://github.com/cgorshing/PSReadLine) from [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine)
-3. 🔱 Forked [cgorshing/laptop](https://github.com/cgorshing/laptop) from [thoughtbot/laptop](https://github.com/thoughtbot/laptop)
-4. 💪 Opened PR [#585](https://github.com/puppetlabs/puppetlabs-puppet_agent/pull/585) in [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent)
-5. 🔱 Forked [cgorshing/puppetlabs-puppet_agent](https://github.com/cgorshing/puppetlabs-puppet_agent) from [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent)
+1. ⭐ Starred [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+2. 💪 Opened PR [#3149](https://github.com/PowerShell/PSReadLine/pull/3149) in [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine)
+3. 🔱 Forked [cgorshing/PSReadLine](https://github.com/cgorshing/PSReadLine) from [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine)
+4. 🔱 Forked [cgorshing/laptop](https://github.com/cgorshing/laptop) from [thoughtbot/laptop](https://github.com/thoughtbot/laptop)
+5. 💪 Opened PR [#585](https://github.com/puppetlabs/puppetlabs-puppet_agent/pull/585) in [puppetlabs/puppetlabs-puppet_agent](https://github.com/puppetlabs/puppetlabs-puppet_agent)
 <!--RECENT_ACTIVITY:end-->
 
 
