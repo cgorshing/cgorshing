@@ -83,12 +83,12 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 3rd, 2022, 4:25:12 AM
+Last Updated: Monday, September 5th, 2022, 4:33:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
-2. ✔️ Closed issue [#36](https://github.com/mule-lint/mule-lint/issues/36) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+1. ⭐ Starred [cgorshing/dotfiles](https://github.com/cgorshing/dotfiles)
+2. ⭐ Starred [cgorshing/dotfiles](https://github.com/cgorshing/dotfiles)
 3. ✔️ Closed issue [#34](https://github.com/mule-lint/mule-lint/issues/34) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
 4. ✔️ Closed issue [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
 5. ⭐ Starred [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
