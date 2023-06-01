@@ -83,14 +83,14 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 31st, 2023, 4:01:13 AM
+Last Updated: Thursday, June 1st, 2023, 4:01:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [cgorshing/nixos-config](https://github.com/cgorshing/nixos-config)
-2. 💪 Opened PR [#23](https://github.com/EdiWang/EnvSetup/pull/23) in [EdiWang/EnvSetup](https://github.com/EdiWang/EnvSetup)
-3. 🔱 Forked [cgorshing/EdiWangs-EnvSetup](https://github.com/cgorshing/EdiWangs-EnvSetup) from [EdiWang/EnvSetup](https://github.com/EdiWang/EnvSetup)
-4. ✔️ Closed issue [#42](https://github.com/mule-lint/mule-lint/issues/42) in [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+1. ❌ Closed PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
+2. 📔 Created new repository [cgorshing/nixos-config](https://github.com/cgorshing/nixos-config)
+3. 💪 Opened PR [#23](https://github.com/EdiWang/EnvSetup/pull/23) in [EdiWang/EnvSetup](https://github.com/EdiWang/EnvSetup)
+4. 🔱 Forked [cgorshing/EdiWangs-EnvSetup](https://github.com/cgorshing/EdiWangs-EnvSetup) from [EdiWang/EnvSetup](https://github.com/EdiWang/EnvSetup)
 5. ⭐ Starred [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
 <!--RECENT_ACTIVITY:end-->
 
