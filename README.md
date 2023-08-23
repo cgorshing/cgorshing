@@ -83,15 +83,15 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 21st, 2023, 4:01:23 AM
+Last Updated: Wednesday, August 23rd, 2023, 4:01:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Home](https://github.com/cgorshing/rpicluster-k3s/wiki/Home) in [cgorshing/rpicluster-k3s](https://github.com/cgorshing/rpicluster-k3s)
-2. 📔 Created new repository [cgorshing/rpicluster-k3s](https://github.com/cgorshing/rpicluster-k3s)
-3. ❌ Closed PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
-4. 🔱 Forked [cgorshing/EdiWangs-EnvSetup](https://github.com/cgorshing/EdiWangs-EnvSetup) from [EdiWang/EnvSetup](https://github.com/EdiWang/EnvSetup)
-5. ⭐ Starred [mule-lint/mule-lint](https://github.com/mule-lint/mule-lint)
+1. 💪 Opened PR [#104](https://github.com/eficode-academy/kubernetes-katas/pull/104) in [eficode-academy/kubernetes-katas](https://github.com/eficode-academy/kubernetes-katas)
+2. 🔱 Forked [cgorshing/kubernetes-katas](https://github.com/cgorshing/kubernetes-katas) from [eficode-academy/kubernetes-katas](https://github.com/eficode-academy/kubernetes-katas)
+3. 📖 Created new wiki page [Home](https://github.com/cgorshing/rpicluster-k3s/wiki/Home) in [cgorshing/rpicluster-k3s](https://github.com/cgorshing/rpicluster-k3s)
+4. 📔 Created new repository [cgorshing/rpicluster-k3s](https://github.com/cgorshing/rpicluster-k3s)
+5. ❌ Closed PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
 <!--RECENT_ACTIVITY:end-->
 
 
