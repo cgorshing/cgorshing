@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 25th, 2024, 4:01:17 AM
+Last Updated: Saturday, January 27th, 2024, 4:01:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#104](https://github.com/eficode-academy/kubernetes-katas/pull/104) in [eficode-academy/kubernetes-katas](https://github.com/eficode-academy/kubernetes-katas)
+1. ✔️ Closed issue [#35](https://github.com/ueberauth/ueberauth_twitter/issues/35) in [ueberauth/ueberauth_twitter](https://github.com/ueberauth/ueberauth_twitter)
 2. 🔱 Forked [cgorshing/kubernetes-katas](https://github.com/cgorshing/kubernetes-katas) from [eficode-academy/kubernetes-katas](https://github.com/eficode-academy/kubernetes-katas)
 3. 📖 Created new wiki page [Home](https://github.com/cgorshing/rpicluster-k3s/wiki/Home) in [cgorshing/rpicluster-k3s](https://github.com/cgorshing/rpicluster-k3s)
 4. 📔 Created new repository [cgorshing/rpicluster-k3s](https://github.com/cgorshing/rpicluster-k3s)
