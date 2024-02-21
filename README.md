@@ -83,13 +83,13 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 19th, 2024, 4:01:19 AM
+Last Updated: Wednesday, February 21st, 2024, 4:01:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#35](https://github.com/ueberauth/ueberauth_twitter/issues/35) in [ueberauth/ueberauth_twitter](https://github.com/ueberauth/ueberauth_twitter)
-2. 🔱 Forked [cgorshing/kubernetes-katas](https://github.com/cgorshing/kubernetes-katas) from [eficode-academy/kubernetes-katas](https://github.com/eficode-academy/kubernetes-katas)
-3. 📖 Created new wiki page [Home](https://github.com/cgorshing/rpicluster-k3s/wiki/Home) in [cgorshing/rpicluster-k3s](https://github.com/cgorshing/rpicluster-k3s)
+1. ⭐ Starred [charlax/professional-programming](https://github.com/charlax/professional-programming)
+2. ⭐ Starred [charlax/engineering-management](https://github.com/charlax/engineering-management)
+3. ✔️ Closed issue [#35](https://github.com/ueberauth/ueberauth_twitter/issues/35) in [ueberauth/ueberauth_twitter](https://github.com/ueberauth/ueberauth_twitter)
 4. 📔 Created new repository [cgorshing/rpicluster-k3s](https://github.com/cgorshing/rpicluster-k3s)
 5. ❌ Closed PR [#1](https://github.com/Kanna727/github-activity-readme/pull/1) in [Kanna727/github-activity-readme](https://github.com/Kanna727/github-activity-readme)
 <!--RECENT_ACTIVITY:end-->
