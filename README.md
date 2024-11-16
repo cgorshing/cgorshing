@@ -1,20 +1,3 @@
-<!--
-**cgorshing/cgorshing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 ### Hi there, I'm Chad Gorshing [cgorshing][website] 👋
 
 [![Website](https://img.shields.io/website?label=gorshing.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gorshing.net)
@@ -22,13 +5,14 @@ Here are some ideas to get you started:
 
 ## Trying to be a Technology Leader and Creator!
 
-- 🔭 I'm currently looking for work - hit me up!
-- 🌱 I'm currently learning Elixir 🤣
-- 👯 I'm looking to collaborate with others
-- 🤔 I’m looking for help with understanding Rubix cubes
+- 🔭 I'm currently working for the State of Oklahoma!
+- 🌱 I'm currently learning Elixir along with Tailwind CSS 🤣
+- 👯 I'm looking to collaborate on so many things (SaaS ideas)
+- 🤔 I’m looking for help with understanding EA practices
+- 💬 Ask me about my 1959 Ford F100 truck
 - 📫 How to reach me: Email, Twitter, or LinkedIn
-- 🥅 2020 Goals: I've got some reading to do
-- ⚡ Fun fact: My wife tells me I randomly whistle ... often
+- 🥅 2025 Goals: Learning German and deploying often
+- ⚡ Fun fact: I have no fun fact - just simply boring
 
 ### Connect with me:
 
@@ -99,9 +83,7 @@ Last Updated: Friday, November 15th, 2024, 4:12:21 AM
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="cgorshing's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cgorshing&show_icons=true&hide_border=true" />
-
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cgorshing)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [website]: https://gorshing.net
