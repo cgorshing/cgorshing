@@ -83,7 +83,7 @@ Last Updated: Friday, November 15th, 2024, 4:12:21 AM
 
 <details>
   <summary>:zap: Github Stats</summary>
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cgorshing)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="cgorshing's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cgorshing&show_icons=true" />
 </details>
 
 [website]: https://gorshing.net
