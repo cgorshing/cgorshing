@@ -67,15 +67,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 23rd, 2025, 4:01:47 AM
+Last Updated: Saturday, January 25th, 2025, 4:01:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [cgorshing/neovim.config](https://github.com/cgorshing/neovim.config)
-2. 📔 Created new repository [cgorshing/gildedrose-kata](https://github.com/cgorshing/gildedrose-kata)
-3. 🔱 Forked [cgorshing/GildedRose-Refactoring-Kata](undefined) from [emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
-4. 📔 Created new repository [cgorshing/down-yardage](https://github.com/cgorshing/down-yardage)
-5. 📔 Created new repository [cgorshing/quick-intros](https://github.com/cgorshing/quick-intros)
+1. 💪 Opened PR [#2977](https://github.com/BurntSushi/ripgrep/pull/2977) in [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+2. 🔱 Forked [cgorshing/ripgrep](https://github.com/cgorshing/ripgrep) from [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+3. 📔 Created new repository [cgorshing/neovim.config](https://github.com/cgorshing/neovim.config)
+4. 📔 Created new repository [cgorshing/gildedrose-kata](https://github.com/cgorshing/gildedrose-kata)
+5. 🔱 Forked [cgorshing/GildedRose-Refactoring-Kata](undefined) from [emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 <!--RECENT_ACTIVITY:end-->
 
 
