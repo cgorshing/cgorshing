@@ -67,15 +67,15 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 5th, 2025, 4:01:28 AM
+Last Updated: Friday, February 7th, 2025, 4:01:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2977](https://github.com/BurntSushi/ripgrep/pull/2977) in [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-2. 🔱 Forked [cgorshing/ripgrep](https://github.com/cgorshing/ripgrep) from [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-3. 📔 Created new repository [cgorshing/neovim.config](https://github.com/cgorshing/neovim.config)
-4. 📔 Created new repository [cgorshing/gildedrose-kata](https://github.com/cgorshing/gildedrose-kata)
-5. 🔱 Forked [cgorshing/GildedRose-Refactoring-Kata](undefined) from [emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+1. 💪 Opened PR [#1906](https://github.com/asdf-vm/asdf/pull/1906) in [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
+2. 🔱 Forked [cgorshing/asdf](https://github.com/cgorshing/asdf) from [asdf-vm/asdf](https://github.com/asdf-vm/asdf)
+3. 💪 Opened PR [#2977](https://github.com/BurntSushi/ripgrep/pull/2977) in [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+4. 🔱 Forked [cgorshing/ripgrep](https://github.com/cgorshing/ripgrep) from [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+5. 📔 Created new repository [cgorshing/neovim.config](https://github.com/cgorshing/neovim.config)
 <!--RECENT_ACTIVITY:end-->
 
 
