@@ -3,16 +3,16 @@
 [![Website](https://img.shields.io/website?label=gorshing.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gorshing.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cgorshing?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcgorshing&screen_name=cgorshing)
 
-## Trying to be a Technology Leader and Creator!
+## Software Crafter and Builder!
 
-- 🔭 I'm currently working for the State of Oklahoma!
+- 🔭 I'm currently looking for work - hit me up!
 - 🌱 I'm currently learning Elixir along with Tailwind CSS 🤣
 - 👯 I'm looking to collaborate on so many things (SaaS ideas)
-- 🤔 I’m looking for help with understanding EA practices
+- 🤔 I’m looking for help with milling or steel foundry
 - 💬 Ask me about my 1959 Ford F100 truck
 - 📫 How to reach me: Email, Twitter, or LinkedIn
-- 🥅 2025 Goals: Learning German and deploying often
-- ⚡ Fun fact: I have no fun fact - just simply boring
+- 🥅 2025 Goals: Ask me about my 5 year goals
+- ⚡ Fun fact: I often whistle
 
 ### Connect with me:
 
